@@ -45,4 +45,3 @@ serviceAccountKey.json
 # Optional: lockfiles are usually committed; uncomment to ignore
 # package-lock.json
 # yarn.lock
-config.bat
